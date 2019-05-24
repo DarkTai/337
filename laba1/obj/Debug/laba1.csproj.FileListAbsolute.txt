@@ -48,3 +48,16 @@ E:\момот\laba1\laba1\obj\Debug\laba1.OrdersForm.resources
 E:\момот\laba1\laba1\obj\Debug\laba1.partsForm.resources
 E:\момот\laba1\laba1\obj\Debug\laba1.Properties.Resources.resources
 E:\момот\laba1\laba1\obj\Debug\laba1.csproj.GenerateResource.Cache
+C:\Users\Дарк\Downloads\момот\laba3\laba3\laba1\bin\Debug\laba1.exe.config
+C:\Users\Дарк\Downloads\момот\laba3\laba3\laba1\obj\Debug\laba1.exe
+C:\Users\Дарк\Downloads\момот\laba3\laba3\laba1\obj\Debug\laba1.pdb
+C:\Users\Дарк\Downloads\момот\laba3\laba3\laba1\bin\Debug\dbdemos.mdb
+C:\Users\Дарк\Downloads\момот\laba3\laba3\laba1\bin\Debug\laba1.exe
+C:\Users\Дарк\Downloads\момот\laba3\laba3\laba1\bin\Debug\laba1.pdb
+C:\Users\Дарк\Downloads\момот\laba3\laba3\laba1\obj\Debug\laba1.csprojResolveAssemblyReference.cache
+C:\Users\Дарк\Downloads\момот\laba3\laba3\laba1\obj\Debug\laba1.Form1.resources
+C:\Users\Дарк\Downloads\момот\laba3\laba3\laba1\obj\Debug\laba1.itemsForm.resources
+C:\Users\Дарк\Downloads\момот\laba3\laba3\laba1\obj\Debug\laba1.OrdersForm.resources
+C:\Users\Дарк\Downloads\момот\laba3\laba3\laba1\obj\Debug\laba1.partsForm.resources
+C:\Users\Дарк\Downloads\момот\laba3\laba3\laba1\obj\Debug\laba1.Properties.Resources.resources
+C:\Users\Дарк\Downloads\момот\laba3\laba3\laba1\obj\Debug\laba1.csproj.GenerateResource.Cache
